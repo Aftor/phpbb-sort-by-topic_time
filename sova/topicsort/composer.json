@@ -1,0 +1,17 @@
+{
+    "name": "sova/topicsort",
+    "type": "phpbb-extension",
+    "description": "Сортировка тем по дате создания вместо последнего сообщения.",
+    "version": "1.0.0",
+    "license": "GPL-2.0-only",
+    "authors": [{"name": "sova", "role": "Developer"}],
+    "require": {
+        "php": ">=7.2"
+    },
+    "extra": {
+        "display-name": "Sova Topic Sort",
+        "soft-require": {
+            "phpbb/phpbb": ">=3.3.0,<4.0.0@dev"
+        }
+    }
+}

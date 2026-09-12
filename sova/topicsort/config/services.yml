@@ -1,0 +1,5 @@
+services:
+    sova.topicsort.listener:
+        class: sova\topicsort\event\listener
+        tags:
+            - { name: event.listener }
