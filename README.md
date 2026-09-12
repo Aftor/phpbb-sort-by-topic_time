@@ -1,3 +1,5 @@
-Copy "sova" to your folder forum/ext
+DESCRIPTION: By default, topics are sorted by the fields array('t.topic_last_post_time', 't.topic_last_post_id'). The extension allows you to replace the standard sorting logic by setting the sorting to the t.topic_time field without having to modify the viewforum.php code.
 
-Activate extension in administration panel of your forum
+INSTRUCTION:
+- Copy "sova" to your folder forum/ext
+- Activate extension in administration panel of your forum
