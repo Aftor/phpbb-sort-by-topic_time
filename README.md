@@ -3,3 +3,6 @@ DESCRIPTION: By default, topics are sorted by the fields array('t.topic_last_pos
 INSTRUCTION:
 - Copy "sova" to your folder forum/ext
 - Activate extension in administration panel of your forum
+
+DISCLAIMER:
+You use the extension at your own risk. The author is not responsible for any malfunctions or possible data loss.
