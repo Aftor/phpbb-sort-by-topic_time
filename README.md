@@ -5,4 +5,5 @@ INSTRUCTION:
 - Activate extension in administration panel of your forum
 
 DISCLAIMER:
-You use the extension at your own risk. The author is not responsible for any malfunctions or possible data loss.
+- The extension works with phpbb 3.3.17 and PHP 8.5. Performance under other conditions is not guaranteed, but is possible.
+- You use the extension at your own risk. The author is not responsible for any malfunctions or possible data loss.
